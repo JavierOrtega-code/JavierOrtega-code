@@ -32,5 +32,3 @@ Me apasiona transformar líneas de código en experiencias digitales funcionales
 * 📧 Email: [tu-correo@ejemplo.com](mailto:tu-correo@ejemplo.com)
 
 ---
-
-> *"El código limpio siempre parece que fue escrito por alguien a quien le importa."* – Michael Feathers
