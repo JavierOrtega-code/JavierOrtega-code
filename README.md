@@ -20,13 +20,6 @@ Me apasiona transformar líneas de código en experiencias digitales funcionales
 
 ---
 
-### 📈 Mis Estadísticas de GitHub
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=JavierOrtega-code&show_icons=true&theme=radical&hide_border=true" alt="Stats de GitHub" />
-</p>
-
----
-
 ### 📫 Conecta conmigo
 * 💼 LinkedIn: [linkedin](www.linkedin.com/in/javier-ortega-fernández-1b3b7b329)
 * 📧 Email: [tu-correo@ejemplo.com](mailto:tu-correo@ejemplo.com)
