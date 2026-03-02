@@ -22,6 +22,6 @@ Me apasiona transformar líneas de código en experiencias digitales funcionales
 
 ### 📫 Conecta conmigo
 * 💼 LinkedIn: [linkedin](www.linkedin.com/in/javier-ortega-fernández-1b3b7b329)
-* 📧 Email: [tu-correo@ejemplo.com](mailto:tu-correo@ejemplo.com)
+* 📧 Email: [email](javierortegafernandez0@gmail.com)
 
 ---
